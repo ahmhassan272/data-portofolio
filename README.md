@@ -11,6 +11,6 @@ My goal is to build data-driven solutions that create business value.
 - Automation (n8n, APIs)
 
 ## 📬 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/ahmed-hassan002/)
+- LinkedIn: https://www.linkedin.com/in/ahmed-hassan002/
 - Email: ahmhassan272@gmail.com
-- Website: ahmedportfolio.my.canva.site
+- Website: ahmedportfolio.my.canva.site 
